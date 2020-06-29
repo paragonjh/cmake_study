@@ -1,0 +1,5 @@
+1. mkdir build
+2. cd build
+3. cmake .. -D JSON_VERSION="json1" or cmake .. -D JSON_VERSION="json2"
+4. make -j8
+5. ./myproject
